@@ -1,8 +1,4 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
+
 body{
     background-color: darkgrey;
 }
@@ -11,21 +7,21 @@ body{
     color: white;
     text-align: center;
     display: block;
-    width: 300px;
+   
 }
 h1{
     background-color: darkred;
     text-align: center;
     display: block;
-    width: 300px;
+    
 }
 h2{
     background-color: crimson;
     text-align: center;
     display: block;
-    width: 300px;
+   
 }
 .container{
-    width: 300px;
+    width: 50%;
     margin: 0 auto;
 }
