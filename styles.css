@@ -4,13 +4,28 @@
     box-sizing: border-box;
 }
 body{
-    background-color: azure;
+    background-color: darkgrey;
 }
 .entry {
-    background-color: red;
-    color: blue;
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: block;
+    width: 300px;
 }
 h1{
-    color: brown;
-
+    background-color: darkred;
+    text-align: center;
+    display: block;
+    width: 300px;
+}
+h2{
+    background-color: crimson;
+    text-align: center;
+    display: block;
+    width: 300px;
+}
+.container{
+    width: 300px;
+    margin: 0 auto;
 }
