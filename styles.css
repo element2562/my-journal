@@ -7,19 +7,25 @@ body{
     color: white;
     text-align: center;
     display: block;
-   
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px 10px;
 }
 h1{
     background-color: darkred;
     text-align: center;
     display: block;
-    
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px 10px;
 }
 h2{
     background-color: crimson;
     text-align: center;
     display: block;
-   
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px 10px;
 }
 .container{
     width: 75%;
